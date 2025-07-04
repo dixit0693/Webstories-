@@ -1,0 +1,114 @@
+<!doctype html>
+<html ⚡ lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>BMNR Stock Surges 514%</title>
+    <link rel="canonical" href="https://your-username.github.io/webstories/bmnr-webstory.html">
+    <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
+    <meta name="description" content="BitMine Immersion Technologies (BMNR) stock exploded with a 514% rally. Here's the story.">
+
+    <!-- AMP runtime -->
+    <script async src="https://cdn.ampproject.org/v0.js"></script>
+    <!-- AMP story component -->
+    <script async custom-element="amp-story" src="https://cdn.ampproject.org/v0/amp-story-1.0.js"></script>
+
+    <!-- AMP boilerplate -->
+    <style amp-boilerplate>
+      body {
+        -webkit-animation: -amp-start 8s steps(1,end) 0s 1 normal both;
+        -moz-animation: -amp-start 8s steps(1,end) 0s 1 normal both;
+        -ms-animation: -amp-start 8s steps(1,end) 0s 1 normal both;
+        animation: -amp-start 8s steps(1,end) 0s 1 normal both;
+      }
+      @-webkit-keyframes -amp-start { from { visibility: hidden } to { visibility: visible } }
+      @-moz-keyframes -amp-start { from { visibility: hidden } to { visibility: visible } }
+      @-ms-keyframes -amp-start { from { visibility: hidden } to { visibility: visible } }
+      @keyframes -amp-start { from { visibility: hidden } to { visibility: visible } }
+    </style>
+    <noscript>
+      <style amp-boilerplate>
+        body {
+          -webkit-animation: none;
+          -moz-animation: none;
+          -ms-animation: none;
+          animation: none;
+        }
+      </style>
+    </noscript>
+
+    <!-- Custom styles -->
+    <style amp-custom>
+      amp-story {
+        font-family: 'Arial', sans-serif;
+        color: white;
+      }
+
+      h1 {
+        font-size: 2em;
+        margin: 0.5em 0;
+      }
+
+      p {
+        font-size: 1.2em;
+        line-height: 1.4em;
+        margin: 0.5em 0;
+      }
+    </style>
+  </head>
+
+  <body>
+    <amp-story standalone
+      title="BMNR Stock Surges 514%"
+      publisher="FlipTheLoss.in"
+      publisher-logo-src="https://your-username.github.io/webstories/logo.png"
+      poster-portrait-src="https://your-username.github.io/webstories/bmnr-cover.jpg">
+
+      <!-- Cover Page -->
+      <amp-story-page id="cover">
+        <amp-story-grid-layer template="fill">
+          <amp-img src="https://your-username.github.io/webstories/bmnr-cover.jpg"
+                   width="720" height="1280"
+                   layout="responsive"
+                   alt="BMNR Web Story Cover"></amp-img>
+        </amp-story-grid-layer>
+        <amp-story-grid-layer template="vertical">
+          <h1>BMNR Stock Skyrockets</h1>
+          <p>BitMine Immersion Technologies shocked markets with a 514% surge.</p>
+        </amp-story-grid-layer>
+      </amp-story-page>
+
+      <!-- Page 2 -->
+      <amp-story-page id="page2">
+        <amp-story-grid-layer template="vertical">
+          <h1>One-Day Explosion</h1>
+          <p>BMNR closed at $21.95 on July 2, 2025 — up 514.54% in just one day.</p>
+        </amp-story-grid-layer>
+      </amp-story-page>
+
+      <!-- Page 3 -->
+      <amp-story-page id="page3">
+        <amp-story-grid-layer template="vertical">
+          <h1>What is BitMine?</h1>
+          <p>The company builds immersion-cooled crypto mining and AI infrastructure systems.</p>
+        </amp-story-grid-layer>
+      </amp-story-page>
+
+      <!-- Page 4 -->
+      <amp-story-page id="page4">
+        <amp-story-grid-layer template="vertical">
+          <h1>Why the Rally?</h1>
+          <p>Likely due to a short squeeze and retail speculation — no major news confirmed yet.</p>
+        </amp-story-grid-layer>
+      </amp-story-page>
+
+      <!-- Page 5 -->
+      <amp-story-page id="page5">
+        <amp-story-grid-layer template="vertical">
+          <h1>Is It Sustainable?</h1>
+          <p>BMNR is still down 87% YoY. Caution is advised — high risk, high volatility.</p>
+        </amp-story-grid-layer>
+      </amp-story-page>
+
+    </amp-story>
+  </body>
+</html>
